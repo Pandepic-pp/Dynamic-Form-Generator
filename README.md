@@ -4,6 +4,7 @@ A simple, clean starter project with React and Bootstrap 5.
 
 The creation of a unique webpage, wherein the UI is divided into two distinct halves.
 On the left side, there will be a UI schema of a form in JSON format; the right side is to be occupied by a dynamic form specifically created from that JSON.
+The webpage is hosted on [https://dynamic-form-zeta.vercel.app/](https://dynamic-form-zeta.vercel.app/)
 
 ## Setup
 
@@ -29,6 +30,9 @@ On the left side, there will be a UI schema of a form in JSON format; the right 
 
 Environment: NODE_OPTIONS=--openssl-legacy-provider
 
-#TODO
+# TODO
 Add JSON viewer
 https://www.npmjs.com/package/react-json-view
+
+## Picture of the webpage
+![Screenshot 2024-03-01 133132](https://github.com/Pandepic-pp/Dynamic-Form-Generator/assets/76521740/36380595-6739-4354-a480-564981f7a79c)
